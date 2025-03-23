@@ -1,9 +1,11 @@
 {
+  "description": "Portfolio website.",
+  "repo": "https://github.com/jonathand-cf/jonathand-cf",
   "owner": {
-    "username": "jonathand-cf"
+    "username": "jonathand-cf",
+    "email": "jonathannfedje@gmail.com"
   },
   "record": {
-    "RECORDTYPE": "A"
+    "CNAME": "jonathand-cf.github.io"
   }
 }
-    
